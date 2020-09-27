@@ -1,12 +1,20 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="projeto_data" version="1.3.0" audacityversion="2.4.2" sel0="0.0000000000" sel1="2.4380952381" vpos="0" h="0.0000000000" zoom="344.5312500000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
-	<tags/>
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="laranja_data" version="1.3.0" audacityversion="2.4.2" sel0="0.0740136054" sel1="0.0740136054" vpos="0" h="0.0000000000" zoom="344.5312500000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="ARTIST" value="Marcos Dissotti"/>
+		<tag name="TITLE" value="laranja"/>
+		<tag name="COMMENTS" value="Voz desenvolvida para o aplicativo intelimemo."/>
+		<tag name="ALBUM" value="Intelimemo-voices"/>
+		<tag name="YEAR" value="2020"/>
+		<tag name="TRACKNUMBER" value="32"/>
+		<tag name="GENRE" value="infantil"/>
+	</tags>
 	<wavetrack name="Faixa de Áudio" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="0.00000000" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="107520">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="79360">
 				<waveblock start="0">
-					<simpleblockfile filename="e0808f79.au" len="107520" min="-0.918668" max="1.0" rms="0.176089"/>
+					<simpleblockfile filename="e0808744.au" len="79360" min="-0.918668" max="1.0" rms="0.204934"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
@@ -14,9 +22,9 @@
 	</wavetrack>
 	<wavetrack name="Faixa de Áudio" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="0.00000000" colorindex="0">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="107520">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="79360">
 				<waveblock start="0">
-					<simpleblockfile filename="e0808024.au" len="107520" min="-0.918762" max="0.999914" rms="0.176088"/>
+					<simpleblockfile filename="e08080a7.au" len="79360" min="-0.918762" max="0.999914" rms="0.204933"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
