@@ -1,3 +1,8 @@
+Captura e Edição de Áudio com a ferramenta:
+[![Audacity](https://forum.audacityteam.org/styles/prosilver/theme/images/Audacity-logo_75px_trans_forum.png)](https://www.audacityteam.org) 
+=========================
+
+
 # Voices
 - 1.1 Clique nos ícones para revelar as figuras.
 - 1.2 Quando encontrar duas iguais elas irão sumir.

@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="projeto_data" version="1.3.0" audacityversion="2.4.2" sel0="1.6312018141" sel1="1.6312018141" vpos="0" h="0.0000000000" zoom="172.2656250000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="ARTIST" value="Marcos Dissotti"/>
+		<tag name="TITLE" value="pato"/>
+		<tag name="COMMENTS" value="Voz desenvolvida para o aplicativo intelimemo."/>
+		<tag name="ALBUM" value="Intelimemo-voices"/>
+		<tag name="YEAR" value="2020"/>
+		<tag name="TRACKNUMBER" value="22"/>
+		<tag name="GENRE" value="infantil"/>
+	</tags>
+	<wavetrack name="Faixa de Áudio" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="71936">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808e84.au" len="71936" min="-0.794311" max="1.0" rms="0.1318"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Faixa de Áudio" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="71936">
+				<waveblock start="0">
+					<simpleblockfile filename="e080847a.au" len="71936" min="-0.794303" max="0.999983" rms="0.131801"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
