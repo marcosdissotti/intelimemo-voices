@@ -18,6 +18,8 @@ Captura e Edição de Áudio com a ferramenta:
 - 2.5 Este é o cachorro.
 - 2.6 Está é a coruja.
 
+https://soundcloud.com/marcos-dissotti-16547659/sets/intelimemo-bichos
+
 ## Frutas:
 - 3.1 Este é o limão.
 - 3.2 Esta é a laranja.
@@ -26,7 +28,7 @@ Captura e Edição de Áudio com a ferramenta:
 - 3.5 Esta é a banana.
 - 3.6 Este é o morango.
 
-
+https://soundcloud.com/marcos-dissotti-16547659/sets/intelimemo-frutas
 
 ## Cores:
 - 4.1 Este é o vermelho.
@@ -35,4 +37,6 @@ Captura e Edição de Áudio com a ferramenta:
 - 4.4 Este é o amarelo.
 - 4.5 Este é o rosa.
 - 4.6 Este é o roxo.
+
+https://soundcloud.com/marcos-dissotti-16547659/sets/intelimemo-cores
 
