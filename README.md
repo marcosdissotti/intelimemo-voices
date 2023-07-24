@@ -1,4 +1,4 @@
-Captura e Edição de Áudio com a ferramenta:
+Captura e Edição de Áudio com a ferramenta [![Audacity]](https://www.audacityteam.org)
 =========================
 
 
