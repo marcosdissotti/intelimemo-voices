@@ -1,8 +1,8 @@
 # Dublagem do App Intellimemo 
 Repositório referente dublagem do aplicativo/game de memorização para crianças, para versionamento da captura e edição de Áudio com o programa [Audacity](https://www.audacityteam.org)
+- Dublagem em PT-BR
 
-
-# Voices
+# Vozes
 - 1.1 Clique nos ícones para revelar as figuras.
 - 1.2 Quando encontrar duas iguais elas irão sumir.
 - 1.3 Divirta-se!
