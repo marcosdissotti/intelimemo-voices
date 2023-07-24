@@ -1,5 +1,5 @@
-# Dublagem do App Intellimemo (Um aplicativo/game de memorização para crianças)
-## Captura e Edição de Áudio com [Audacity](https://www.audacityteam.org)
+# Dublagem do App Intellimemo 
+Repositório referente dublagem do aplicativo/game de memorização para crianças, para versionamento da captura e edição de Áudio com o programa [Audacity](https://www.audacityteam.org)
 
 
 # Voices
