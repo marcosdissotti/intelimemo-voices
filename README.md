@@ -1,4 +1,5 @@
-Captura e Edição de Áudio com [Audacity](https://www.audacityteam.org)
+Dublagem do App Intellimemo (Um aplicativo/game de memorização para crianças)
+## Captura e Edição de Áudio com [Audacity](https://www.audacityteam.org)
 =========================
 
 
