@@ -1,5 +1,4 @@
 Captura e Edição de Áudio com a ferramenta:
-[![Audacity](https://forum.audacityteam.org/styles/prosilver/theme/images/Audacity-logo_75px_trans_forum.png)](https://www.audacityteam.org) 
 =========================
 
 
